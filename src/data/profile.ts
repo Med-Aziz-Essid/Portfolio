@@ -1,5 +1,5 @@
 export const profile = {
-  name: "ESSID Mohamed Aziz",
+  name: "Essid Mohamed Aziz",
   nameShort: "Med Aziz Essid",
   title: "IT Engineering Student",
   subtitle: "Cybersecurity Enthusiast",
